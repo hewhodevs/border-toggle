@@ -2,7 +2,7 @@
 // SETTINGS
 // ----------------------------
 
-const outlineVal = "2px solid red";
+const outlineVal = "2px solid red !important";
 
 // ----------------------------
 // START UP
